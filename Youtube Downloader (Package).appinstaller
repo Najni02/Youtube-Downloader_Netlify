@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="Z:\Youtube Downloader (Package).appinstaller"
+	Uri="https://yt-downloader-appinstaller-jan.netlify.app/Youtube Downloader (Package).appinstaller"
 	Version="1.2.8.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="ced37116-dfbd-4acb-b2ce-2b5ace68c3bc"
