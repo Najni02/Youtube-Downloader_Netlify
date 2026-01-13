@@ -12,26 +12,38 @@
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
-			Version="8000.675.1142.0" />
+			Uri="https://github.com/Najni02/Youtube-Downloader/blob/main/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
+			Version="8000.642.119.0" />
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
-			Version="8000.675.1142.0" />
+			Uri="https://github.com/Najni02/Youtube-Downloader/blob/main/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
+			Version="8000.642.119.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
+			Uri="https://github.com/Najni02/Youtube-Downloader/blob/main/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
 			Version="14.0.33728.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.Desktop.appx"
+			Uri="https://github.com/Najni02/Youtube-Downloader/blob/main/Dependencies/x86/Microsoft.VCLibs.x86.14.00.Desktop.appx"
 			Version="14.0.33728.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://github.com/Najni02/Youtube-Downloader/blob/main/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
+			Version="14.0.33519.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://github.com/Najni02/Youtube-Downloader/blob/main/Dependencies/x86/Microsoft.VCLibs.x86.14.00.appx"
+			Version="14.0.33519.0" />
 	</Dependencies>
 	<UpdateSettings>
 		<OnLaunch
