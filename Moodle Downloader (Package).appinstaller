@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://yt-downloader-appinstaller-jan.netlify.app/Moodle Downloader (Package).appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="8b409d9b-2ed8-4d22-9bdc-e37991095231"
+		Version="1.0.0.0"
+		Publisher="CN=Jan Amrhein"
+		Uri="https://github.com/Najni02/Moodle-Downloader/releases/download/v1.0.0/Moodle.Downloader.Package._1.0.0.0_x86_x64.msixbundle" />
+	<Dependencies>
+		<Package
+			Name="Microsoft.WindowsAppRuntime.1.8"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
+			Version="8000.675.1142.0" />
+		<Package
+			Name="Microsoft.WindowsAppRuntime.1.8"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
+			Version="8000.675.1142.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.UWPDesktop"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
+			Version="14.0.33728.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.UWPDesktop"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://github.com/Najni02/Moodle-Downloader/blob/main/Moodle Downloader (Package)_1.0.0.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.Desktop.appx"
+			Version="14.0.33728.0" />
+	</Dependencies>
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
