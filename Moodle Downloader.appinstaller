@@ -6,7 +6,7 @@
 		Name="8b409d9b-2ed8-4d22-9bdc-e37991095231"
 		Version="1.1.0.0"
 		Publisher="CN=Jan Amrhein"
-		Uri="https://github.com/Najni02/youtube-downloader-netlify/releases/download/v1.1.0/Moodle Downloader.msixbundle" />
+		Uri="https://github.com/Najni02/youtube-downloader_netlify/releases/download/v1.1.0/Moodle Downloader.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
@@ -37,4 +37,5 @@
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
 	</UpdateSettings>
+
 </AppInstaller>
